@@ -1,0 +1,6 @@
+org\uiframework\weathershoppertests\SunscreensTests.class
+org\uiframework\helpers\TestNGListeners.class
+org\uiframework\weathershoppertests\MoisturizersTests.class
+org\uiframework\weathershoppertests\E2ETests.class
+org\uiframework\weathershoppertests\TestBase.class
+org\uiframework\weathershoppertests\HomePageTests.class

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 26.286 s <<< FAILURE! - in TestSuite
+org.uiframework.weathershoppertests.E2ETests.UC01_ShoppingBasedOnTemp  Time elapsed: 0.247 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[]almond> but was:<[no product with keyword: ]almond>
+	at org.uiframework.weathershoppertests.E2ETests.UC01_ShoppingBasedOnTemp(E2ETests.java:31)
+
