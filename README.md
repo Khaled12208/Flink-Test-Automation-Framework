@@ -19,11 +19,15 @@
 ## The Framework Structure 
 ![alt text](https://i.ibb.co/9cFYDWb/Php-Travel.png)
 
+## The Project Elements 
+https://ibb.co/cXpzJfw
+
 ## How To use the framework 
 ###### 1. clone the project and open it using any IDE 
 ###### 2. Make sure to have JAVA 8+ 
 ###### 3. Make sure to insall Chrome, Edge and Firefox
 ###### 4. Navaigate to:  src/test/java/org/uiframework/weathershoppertests/TestBase.java in the project to configure the tests
+ See the Pic: https://ibb.co/gPHF2wY
 ###### 5. By using the configuration paramter : 
           * Configure the browser type by: .setBrowser(BrowserType.EDGE) its an enum change it 
           * Configure the browser size by: .setBrowserCustomDimensions(BrowserSize.MAX) for Max or Min or By: setBrowserCustomDimensions(BrowserWidth,BrowserHeight)
@@ -32,10 +36,13 @@
           * Configure the execution mode by: .setExecutionMode(ExecutionMode.HEADFULL) HEADFULL/HEADLESS for silent execution
 ###### 6.Test classes: src/test/java/org/uiframework/testsuites/weathershoppertests
         * The tests are dsigned in POM module so each page has its owen test class as well as we have an E2E class wich contains the assgined task. 
-   
+          See the Pic: https://ibb.co/gPHF2wY   
 ###### 7. Test Suite: src/test/java/org/uiframework/testsuites/testng.xml 
         * as i am using the testng i created the test suite using testng.xml with parrall execution and i integrated it with maven POM
         * so, you can execute the suite by reight click and run or by maven command nvm test
+         See the Pic: https://ibb.co/gPHF2wY
+###### 8. Video For the Execution 
+See : https://www.youtube.com/watch?v=fPkPThTgTcY
 
 
 
